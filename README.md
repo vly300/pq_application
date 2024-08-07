@@ -6,6 +6,14 @@ This application allows for the retrieval and collation of the PQs into one spac
 This application also provides for Admin level users (Stats Gov members) to efficiently store the PQs, and sort it out using various automated features. 
 
 The Python scripts were created using Visual Studio Code, within a virtual environment running Python 3.10.11.
+If you would like to see/edit/run the code on your own computer, it is recommended to run it on VSCode, and activate a virtual environment.
+On Windows: run in the terminal 
+`python -m venv .venv`
+This will create a virtual environment.
+Then, run:
+.\venv\Scripts\activate
+
+If you have your own method (as creating a venv has changed) feel free to use that. 
 
 The UI files were created in Qt Designer, which is a UI to create the UI.
 
